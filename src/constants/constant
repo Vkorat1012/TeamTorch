@@ -1,0 +1,23 @@
+const OPEN = 'Open';
+const CLOSE = 'CLose';
+const WONT = `Wont do`;
+const PRIVATE_TASK = 'Private';
+const PUBLIC_TASK = 'Public';
+const LOW = 'Low';
+const MEDIUM = 'Medium';
+const HIGH = 'High';
+const ACTIVE = 'Active';
+const DEACTIVE = 'Deactive';
+
+module.exports = {
+  OPEN,
+  CLOSE,
+  WONT,
+  PRIVATE_TASK,
+  PUBLIC_TASK,
+  LOW,
+  HIGH,
+  MEDIUM,
+  ACTIVE,
+  DEACTIVE,
+};
