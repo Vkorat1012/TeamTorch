@@ -17,26 +17,6 @@ The Task Manager Express.js Structure is a robust and flexible task management s
 - **Linting:** Implements ESLint with the Google configuration to maintain code consistency and adhere to best practices.
 - **Database Migrations:** Utilizes Sequelize CLI for seamless database schema migrations.
 
-**Dependencies:**
-- bcryptjs: ^2.4.3
-- body-parser: ^1.20.1
-- cookie-parser: ^1.4.6
-- cors: ^2.8.5
-- dotenv: ^16.0.3
-- eslint: >=5.16.0
-- express: ^4.18.2
-- joi: ^17.7.0
-- jsonwebtoken: ^9.0.0
-- mysql2: ^2.3.3
-- nodemon: ^2.0.20
-- sequelize: ^6.27.0
-- uuid: ^9.0.0
-
-**Development Dependencies:**
-- eslint-config-google: ^0.14.0
-- jest: ^27.4.5
-- sequelize-cli: ^6.5.2
-
 **Get Started:**
 1. Clone the repository from [GitHub](https://github.com/Vkorat1012/backend-todo-structure.git).
 2. Run `npm install` to install dependencies.
